@@ -1,0 +1,1 @@
+/run.sh java $JVM_OPTS $ARGS -jar server.jar nogui
