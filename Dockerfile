@@ -1,4 +1,4 @@
-FROM openjdk:10-jdk
+FROM openjdk:10.0.2-jre-slim
 
 ADD  ./init.sh /init.sh
 ADD  ./cmd.sh /cmd.sh
