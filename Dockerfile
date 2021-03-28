@@ -1,4 +1,4 @@
-FROM openjdk:7u291-jre
+FROM openjdk:7u211-jre-alpine3.9
 
 ADD  ./init.sh /init.sh
 ADD  ./cmd.sh /cmd.sh
