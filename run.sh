@@ -1,3 +1,5 @@
+#!/bin/sh
+
 cmd="$@"
 
 echo $$ > $RUN_DIR/$APP_NAME.pid
