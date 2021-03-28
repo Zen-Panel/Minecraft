@@ -1,4 +1,4 @@
-FROM openjdk:9
+FROM openjdk:9.0.4-12-slim
 
 ADD  ./init.sh /init.sh
 ADD  ./cmd.sh /cmd.sh
