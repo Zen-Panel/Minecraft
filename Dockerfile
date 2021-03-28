@@ -1,4 +1,4 @@
-FROM openjdk:8u281-jre
+FROM openjdk:7u291-jre
 
 ADD  ./init.sh /init.sh
 ADD  ./cmd.sh /cmd.sh
