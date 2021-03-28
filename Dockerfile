@@ -1,4 +1,4 @@
-FROM openjdk:11-jdk
+FROM openjdk:11.0.10-jre
 
 ADD  ./init.sh /init.sh
 ADD  ./cmd.sh /cmd.sh
