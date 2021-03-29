@@ -1,4 +1,4 @@
-FROM openjdk:8u282-jre
+FROM openjdk:12.0.2-windowsservercore-ltsc2016
 
 ADD  ./init.sh /init.sh
 ADD  ./cmd.sh /cmd.sh
