@@ -1,4 +1,4 @@
-FROM openjdk:8u282-jre
+FROM openjdk:15.0.2-jdk-buster
 
 ADD  ./init.sh /init.sh
 ADD  ./cmd.sh /cmd.sh
