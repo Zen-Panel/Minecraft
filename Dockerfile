@@ -1,4 +1,4 @@
-FROM openjdk:12.0.2-windowsservercore-ltsc2016
+FROM openjdk:12.0.2-oraclelinux7
 
 ADD  ./init.sh /init.sh
 ADD  ./cmd.sh /cmd.sh
