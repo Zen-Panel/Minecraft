@@ -1,4 +1,4 @@
 # Minecraft
  Minecraft Docker Image for ZenPanel
 
-[JDK 8](https://hub.docker.com/layers/openjdk/library/openjdk/8u282-jre/images/sha256-ea99a803c5d67d404eb2f53a27ff92ecf6e6d9ebabad49a144ec7429c7c05267?context=explore)
+[JDK 13](https://hub.docker.com/layers/openjdk/library/openjdk/13.0.2-jdk/images/sha256-4e5ca4e0f9e7b27d1bb0d37ebc1072b8f6f9f909d5d731064b5f2148c2f86f80?context=explore)
