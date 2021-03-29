@@ -14,7 +14,6 @@ ENV SERVER_JAR server.jar
 RUN mkdir -p /app
 WORKDIR /app
 
-COPY ./server /app
 RUN cd /app
 
 CMD trap 'exit' INT; /init.sh
